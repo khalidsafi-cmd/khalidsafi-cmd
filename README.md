@@ -1,81 +1,94 @@
 <h1 align="center">Hi there 👋, I’m Khalid Safi.</h1>
 
 <p align="left">
-  💼 Computer Science student focused on <strong>Software Development</strong> & working as an IT specialist in a logistics company in Afghanistan.
+  💻 Full-Stack Developer specializing in <strong>Next.js (Frontend + Backend)</strong> and <strong>C# Desktop Applications</strong>.  
+  I also work with modern software engineering practices including <strong>Docker, containerization, and Terraform</strong>.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=00BFFF&vCenter=true&width=900&lines=🧠+Building+systems,+not+just+projects.;⚙️+Docker+•+WSL+•+APIs+•+Automation.;🚀+Turning+ideas+into+deployable+software.;💡+Learning+by+breaking+and+fixing+real+systems.)](https://github.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=00BFFF&vCenter=true&width=900&lines=Full-stack+Next.js+developer.;Desktop+apps+with+C%23+%2F+.NET.;Building+scalable+and+containerized+systems.;DevOps+%7C+Docker+%7C+Infrastructure+as+Code+%7C+Terraform.)](https://github.com)
 
 <p align="left">
-  <!-- CTAs -->
-  <a href="https://github.com/khalidsafi-cmd">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#">Portfolio (coming soon)</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:khalidsafi031@gmail.com">Contact Me</a>
+  <a href="https://github.com/Khalid-Safi">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#">Portfolio (in progress)</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">Contact</a>
 </p>
 
-<br>
+---
 
-#### ⚡ What I’m focused on right now
+## 🧠 About Me
 
-- Building real-world software projects instead of tutorial-only work
-- Working with Docker & containerized environments
-- Learning backend systems, APIs, and deployment workflows
-- Improving my DevOps + infrastructure understanding (WSL, Linux, CI/CD)
-- Automating repetitive IT workflows in logistics operations
+I’m a software developer focused on building **end-to-end systems** — from user interfaces to backend services and deployment infrastructure.
 
-<br>
+My work spans across:
+- Web applications using **Next.js (React + API routes)**
+- Backend logic and APIs (Node.js / server-side Next.js)
+- Desktop applications using **C# and .NET**
+- Infrastructure and deployment using **Docker & Terraform**
 
-#### 🧠 Current mindset
+I enjoy working close to the system level — understanding how applications are built, deployed, and scaled.
 
-- Ship first, polish later  
-- Learn systems, not just syntax  
-- Break things → understand them → rebuild better  
-- Build tools that solve real operational problems  
+---
 
-<br>
+## ⚙️ Tech Stack
 
-#### 🛠️ Tech Stack (growing)
+### 🌐 Frontend / Full-Stack Web
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- REST APIs / API Routes
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- Basic C++ / Java (academic)
-
-**Tools & Systems**
-- Docker
-- WSL (Ubuntu)
-- Git & GitHub
-- Linux CLI
-- Vite / React
+### 🧩 Backend
 - Node.js
+- Next.js API routes
+- Basic system design principles
+- Authentication & API architecture
 
-**Exploring**
-- CI/CD pipelines
-- Cloud deployment basics
-- System design fundamentals
-- Automation scripts for IT workflows
+### 🖥️ Desktop Development
+- C#
+- .NET (WinForms / WPF basics)
+- Desktop application architecture
 
-<br>
+### 🐳 DevOps / Infrastructure
+- Docker & containerization
+- Docker Compose
+- Terraform (Infrastructure as Code)
+- Linux / WSL environments
+- Git & GitHub workflows
 
-#### 🚧 Projects & Experiments
+---
 
-- Dockerized React/Vite apps with volume & permission debugging  
-- Local development environments using WSL + Docker  
-- IT workflow automation ideas for logistics systems  
-- Experimenting with deployment pipelines and dev tooling  
+## 🚀 What I’m Working On
 
-<br>
+- Building full-stack applications with Next.js
+- Developing desktop tools using C# (.NET)
+- Containerizing applications using Docker
+- Learning infrastructure automation with Terraform
+- Improving deployment workflows and system design understanding
 
-#### 📈 Goal
+---
 
-To become a developer who doesn’t just write code — but builds **reliable, deployable systems used in real operations** (especially in logistics + automation environments).
+## 🏗️ Core Engineering Focus
 
-<br>
+- Clean architecture and maintainable codebases  
+- Scalable full-stack system design  
+- Containerized development environments  
+- Infrastructure as code (IaC) principles  
+- Bridging desktop + web ecosystems  
 
-<hr>
+---
+
+## 🎯 Goals
+
+- Build production-ready full-stack applications  
+- Improve DevOps and deployment expertise  
+- Design and deploy scalable systems using modern tools  
+- Combine desktop and web solutions into unified workflows  
+
+---
 
 <p align="center">
   <sub>
-    Built by Khalid Safi • Software Developer in progress • Systems thinker
+    Built by Khalid Safi • Full-Stack Developer • Systems & Infrastructure Enthusiast
   </sub>
 </p>
