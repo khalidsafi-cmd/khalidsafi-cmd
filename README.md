@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=00BFFF&vCenter=true&width=900&lines=Full-stack+Next.js+developer.;Desktop+apps+with+C%23+%2F+.NET.;Building+scalable+and+containerized+systems.;DevOps+%7C+Docker+%7C+Infrastructure+as+Code+%7C+Terraform.)](https://github.com)
 
 <p align="left">
-  <a href="https://github.com/Khalid-Safi">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/KhalidSafi-cmd">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://khalidsafi.anoits.com">Portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:khalid.safi@anoits.com">Contact</a>
 </p>
