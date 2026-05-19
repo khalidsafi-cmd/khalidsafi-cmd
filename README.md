@@ -9,8 +9,8 @@
 
 <p align="left">
   <a href="https://github.com/Khalid-Safi">GitHub</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://khalidsafi.anoits.com">Portfolio (in progress)</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">Contact</a>
+  <a href="https://khalidsafi.anoits.com">Portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:khalid.safi@anoits.com">Contact</a>
 </p>
 
 ---
